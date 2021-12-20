@@ -1,0 +1,16 @@
+----> 03:42:14 Mon Dec 20 olli@dell15 ~/CLionProjects/trickyCPP/homework8
+$ ./cmake-build-debug/bin/homework8 
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestPerson
+[ RUN      ] TestPerson.ChecksForPersonAssignment
+[       OK ] TestPerson.ChecksForPersonAssignment (0 ms)
+[----------] 1 test from TestPerson (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+----> 03:43:11 Mon Dec 20 olli@dell15 ~/CLionProjects/trickyCPP/homework8
+$ 
+
+
